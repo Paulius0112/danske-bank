@@ -1,0 +1,5 @@
+/Users/pauliusgasp/Desktop/Danske/Danske/bin/Debug/Danske.exe
+/Users/pauliusgasp/Desktop/Danske/Danske/bin/Debug/Danske.pdb
+/Users/pauliusgasp/Desktop/Danske/Danske/obj/Debug/Danske.csprojAssemblyReference.cache
+/Users/pauliusgasp/Desktop/Danske/Danske/obj/Debug/Danske.exe
+/Users/pauliusgasp/Desktop/Danske/Danske/obj/Debug/Danske.pdb
